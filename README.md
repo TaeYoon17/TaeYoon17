@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaeYoon17
 - 👀 I’m interested in UX/UI and HCI and 3D Graphics
-- 🌱 I’m currently learning Algorithm, React
+- 🌱 I’m currently learning AR and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
