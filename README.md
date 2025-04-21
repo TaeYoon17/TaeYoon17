@@ -1,5 +1,6 @@
-### TaeYoon (Greem)
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=TaeYoon&fontSize=90)
+Kim Taeyoon - Greem
+---
+> I'm currently interested in leveraging iOS App Intents and cross-device synchronization to enhance user experience.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeYoon17&langs_count=10&layout=compact&theme=dark)](https://github.com/TaeYoon17/TaeYoon17)
 
