@@ -1,6 +1,6 @@
 Kim Taeyoon - Greem
 ---
-> I'm currently interested in leveraging iOS App Intents and cross-device synchronization to enhance user experience.
+> I am currently interested in technologies that enhance the in-vehicle experience for passengers in autonomous vehicles.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeYoon17&langs_count=10&layout=compact&theme=dark)](https://github.com/TaeYoon17/TaeYoon17)
 
